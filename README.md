@@ -1,16 +1,49 @@
-### Hi there 👋
+<div align="center">
+  <picture>
+    <source
+      height=200
+      srcset="https://github-readme-stats.vercel.app/api?username=lazyyq&rank_icon=github&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      height=200
+      srcset="https://github-readme-stats.vercel.app/api?username=lazyyq&rank_icon=github&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=lazyyq&rank_icon=github&show_icons=true" />
+  </picture>
 
-<!--
-**lazyyq/lazyyq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br>
+  
+  <picture>
+    <source
+      height=200
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lazyyq&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      height=200
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lazyyq&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazyyq&layout=compact" />
+  </picture>
 
-Here are some ideas to get you started:
+  <br>
+  
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kykint" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <br>
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+</div>
