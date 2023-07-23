@@ -20,35 +20,33 @@
 
 <br>
 
-<div align=center>
+<div>
   <picture>
     <source
-      height=200
+      height=180
       srcset="https://github-readme-stats.vercel.app/api?username=lazyyq&rank_icon=github&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      height=200
+      height=180
       srcset="https://github-readme-stats.vercel.app/api?username=lazyyq&rank_icon=github&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=lazyyq&rank_icon=github&show_icons=true" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=lazyyq&rank_icon=github&show_icons=true" />
   </picture>
-
-  <br>
   
   <picture>
     <source
-      height=200
+      height=180
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lazyyq&layout=compact&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      height=200
+      height=180
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lazyyq&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazyyq&layout=compact" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazyyq&layout=compact" />
   </picture>
 
   <br>
