@@ -20,7 +20,7 @@
 
 <br>
 
-<div>
+<div align=center>
   <picture>
     <source
       height=200
@@ -34,6 +34,8 @@
     />
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=lazyyq&rank_icon=github&show_icons=true" />
   </picture>
+
+  <br>
   
   <picture>
     <source
