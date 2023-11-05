@@ -1,12 +1,10 @@
 <div align=center id="user-content-toc">
   <ul>
     <summary>
-      <h4>"(Self-proclaimed) Android & Mobile app developer, constantly growing and learning"</h4>
+      <h3>"(Self-proclaimed) Android & Mobile app developer, constantly growing and learning"</h3>
     </summary>
   </ul>
 </div>
-
-<br>
 
 <h3>📘 History</h3>
 
