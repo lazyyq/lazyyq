@@ -1,10 +1,7 @@
 <div align=center id="user-content-toc">
   <ul>
     <summary>
-    <h3 style="display: inline;">"</h3>
-    <h6 style="display: inline;">(Self-proclaimed)</h6>
-    <h3 style="display: inline;"> Android & Mobile app developer,</h3>
-    <h3 style="display: inline;">constantly growing and learning"</h3>
+      <h4>"(Self-proclaimed) Android & Mobile app developer, constantly growing and learning"</h4>
     </summary>
   </ul>
 </div>
@@ -17,11 +14,15 @@
 - Outsourcing for feature implementation & maintenance of shopping platform A @ NAMISNT (2021.12 ~ 2022.01, 2022.03 ~ 06, 2022.08 ~ 09)
 - SW Maestro 14th. (2023.04 ~)
 
+<br>
+
 <h3>💻 Some of my toy projects</h3>
 
 - <img height=40 src="https://github.com/lazyyq/HumphreysBus/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png?raw=true">["HumphyBus" HumphreysBus](https://github.com/lazyyq/HumphreysBus) [<img height=16 src="https://upload.wikimedia.org/wikipedia/commons/5/55/Google_Play_2016_icon.svg">](https://play.google.com/store/apps/details?id=kyklab.humphreysbus)
 - <img height=40 src="https://github.com/lazyyq/HumphyBus.Flutter/blob/master/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png?raw=true">[...and its Flutter version (WIP)](https://github.com/lazyyq/HumphreysBus) [<img height=16 src="https://github.com/lazyyq/HumphyBus.Flutter/blob/master/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png?raw=true">](https://lazyyq.github.io/HumphyBus.Flutter/#/)
 - <img height=40 src="https://github.com/lazyyq/Shhh/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png?raw=true">[Shhh](https://github.com/lazyyq/Shhh)
+
+<br>
 
 <h3>⚒️ Tools & Skills</h3>
 
