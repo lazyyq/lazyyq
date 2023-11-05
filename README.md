@@ -1,8 +1,29 @@
 <div align=center id="user-content-toc">
   <ul>
-    <summary><h2 style="display: inline-block;">:wave: Greetings! :wave:</h2></summary>
+    <summary>
+    <h3 style="display: inline;">"</h3>
+    <h6 style="display: inline;">(Self-proclaimed)</h6>
+    <h3 style="display: inline;"> Android & Mobile app developer,</h3>
+    <h3 style="display: inline;">constantly growing and learning"</h3>
+    </summary>
   </ul>
 </div>
+
+<br>
+
+<h3>📘 History</h3>
+
+- Dept. of Computer Engineering @ KyungKee Univ. (2018.03 ~)
+- Outsourcing for feature implementation & maintenance of shopping platform A @ NAMISNT (2021.12 ~ 2022.01, 2022.03 ~ 06, 2022.08 ~ 09)
+- SW Maestro 14th. (2023.04 ~)
+
+<h3>💻 Some of my toy projects</h3>
+
+- <img height=40 src="https://github.com/lazyyq/HumphreysBus/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png?raw=true">["HumphyBus" HumphreysBus](https://github.com/lazyyq/HumphreysBus) [<img height=16 src="https://upload.wikimedia.org/wikipedia/commons/5/55/Google_Play_2016_icon.svg">](https://play.google.com/store/apps/details?id=kyklab.humphreysbus)
+- <img height=40 src="https://github.com/lazyyq/HumphyBus.Flutter/blob/master/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png?raw=true">[...and its Flutter version (WIP)](https://github.com/lazyyq/HumphreysBus) [<img height=16 src="https://github.com/lazyyq/HumphyBus.Flutter/blob/master/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png?raw=true">](https://lazyyq.github.io/HumphyBus.Flutter/#/)
+- <img height=40 src="https://github.com/lazyyq/Shhh/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png?raw=true">[Shhh](https://github.com/lazyyq/Shhh)
+
+<h3>⚒️ Tools & Skills</h3>
 
 <div align=center>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -17,6 +38,10 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </div>
+
+<br>
+
+<hr>
 
 <br>
 
