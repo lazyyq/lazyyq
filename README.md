@@ -8,7 +8,7 @@
 
 <h3>📘 History</h3>
 
-- Dept. of Computer Engineering @ KyungKee Univ. (2018.03 ~)
+- Dept. of Computer Engineering @ KyungHee Univ. (2018.03 ~)
 - Outsourcing for feature implementation & maintenance of shopping platform A @ NAMISNT (2021.12 ~ 2022.01, 2022.03 ~ 06, 2022.08 ~ 09)
 - SW Maestro 14th. (2023.04 ~)
 
